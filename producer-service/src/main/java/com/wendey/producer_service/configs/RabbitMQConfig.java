@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class RabbitMQConfig {
 
-    public static final String EXG_NAME_MARKETPLACE ="marketplaca.direct";
+    public static final String EXG_NAME_MARKETPLACE ="marketplace.direct";
     public static final String QUEUE_PRODUCT_LOG ="product.log";
     public static final String RK_PRODUCT_LOG ="product.log";
 
